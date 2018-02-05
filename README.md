@@ -1,7 +1,7 @@
 Yet another minimalist MVC skeleton for Slim 2
 
 # Use
-- twig template (on implementation)
+- twig template 
 - Twitter Bootsrap 3 Dashboard Template
 
 # Important Folder Structure
@@ -13,6 +13,7 @@ Yet another minimalist MVC skeleton for Slim 2
     - BaseController.php
   - views/
     - template.php
+  - cache/
 - vendor/
 - css/
 - composer.json
